@@ -1,6 +1,6 @@
 {
   "name": "coloredlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple package to log properly colored messages to proper output streams",
   "main": "index.js",
   "repository": "https://github.com/rjmunhoz/coloredlog.git",
