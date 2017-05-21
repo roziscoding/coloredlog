@@ -1,0 +1,12 @@
+{
+  "name": "coloredlog",
+  "version": "1.0.0",
+  "description": "Simple package to log properly colored messages to proper output streams",
+  "main": "index.js",
+  "repository": "https://github.com/rjmunhoz/coloredlog.git",
+  "author": "Rogério Munhoz (@rjmunhoz)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
